@@ -10,7 +10,7 @@
     "objectdiff": "^1.1.0",
     "prime": "^0.5.0",
     "prime-util": "^0.5.0",
-    "sifter": "^0.5.2",
+    "sifter": "^0.5.4",
     "slick": "^1.12.2",
     "sortablejs": "gantry/Sortable#master",
     "webfontloader": "^1.6.27"
